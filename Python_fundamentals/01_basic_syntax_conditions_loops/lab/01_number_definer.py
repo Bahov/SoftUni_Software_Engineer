@@ -10,9 +10,9 @@ elif number_input < 0:
     else:
         print('negative')
 else:
-    if abs(number_input) < 1:
+    if number_input < 1:
         print('small positive')
-    elif abs(number_input) > 1000000:
+    elif number_input > 1000000:
         print('large positive')
     else:
         print('positive')
