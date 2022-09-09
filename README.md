@@ -1,2 +1,1 @@
-# SoftUni
-Codes from SoftUni courses
+Scripts from SoftUni Python track
