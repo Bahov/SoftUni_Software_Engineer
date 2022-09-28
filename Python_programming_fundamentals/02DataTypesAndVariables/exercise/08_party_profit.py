@@ -24,6 +24,6 @@ for day in range(1, adventure_days + 1):
 
 coins_per_member = int(coins / group_size)
 
-print(f'{group_size} companions receive {coins_per_member} coins each.')
+print(f'{group_size} companions received {coins_per_member} coins each.')
 
 
