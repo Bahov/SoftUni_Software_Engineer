@@ -9,6 +9,7 @@ for _ in range(number_of_iterations):
 
 command = input()
 
+# Option 1
 # if command == 'even':
 #     for i in my_list:
 #         if i % 2 == 0 or i == 0:
@@ -26,6 +27,7 @@ command = input()
 #         if i >= 0:
 #             my_list_filtered.append(i)
 
+# Option 2
 for i in my_list:
     check_condition = (
         (command == 'even' and (i % 2 == 0 or i == 0))
