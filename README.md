@@ -1,1 +1,1 @@
-Scripts from SoftUni Python track
+Solutions to problemsfrom SoftUni Python track
